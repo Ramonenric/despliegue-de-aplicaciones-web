@@ -16,6 +16,11 @@ Añade en tu servidor el módulo mod_info y explique para que se utiliza este pl
 nombre private. Permite que la carpeta public se visualice y el resto de las carpetas
 que se creen, incluyendo private, no se muestren. A continuación, puede observar
 cómo se debe de mostrar la carpeta public:
+
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/6d46013f-33ec-4294-a658-1e8534a20195)
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/8e0efede-faaa-42fd-8203-9300cef0448b)
+
+
 .
 4. Prueba de acceder poniendo www. delante de tu URL actual. ¿Funciona? En caso
 negativo, haz que funcione mediante el módulo mod_rewrite. Investigue como utilizar
