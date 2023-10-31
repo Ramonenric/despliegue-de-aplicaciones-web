@@ -19,16 +19,24 @@ cómo se debe de mostrar la carpeta public:
 
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/6d46013f-33ec-4294-a658-1e8534a20195)
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/8e0efede-faaa-42fd-8203-9300cef0448b)
-
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/293472e5-ec5d-47d4-8670-796f95f3d553)
 
 .
 4. Prueba de acceder poniendo www. delante de tu URL actual. ¿Funciona? En caso
 negativo, haz que funcione mediante el módulo mod_rewrite. Investigue como utilizar
 el archivo .htacess para implementarlo.
+
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/a87fc79d-9e03-4ed8-8fa6-9ad7dddad770)
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/b43ffce9-ef76-4d22-a987-0408a10bcdd4)
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/70706688-6827-44b2-be69-eedcf4b3a83e)
+
 .
 5. Muestra los directorios de Apache con un tema diferente. Puedes utilizar
 https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la
 atención.
+
+
+
 .
 6. (Extra: 1 punto) Crea tu propio tema para el ejercicio anterior, sin dependencias
 externas.
