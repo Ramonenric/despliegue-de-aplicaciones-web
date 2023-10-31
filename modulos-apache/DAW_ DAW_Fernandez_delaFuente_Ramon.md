@@ -1,7 +1,7 @@
 Añade en tu servidor el módulo mod_info y explique para que se utiliza este plugin.
 
-![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/97a3c5f7-b93b-42b5-b77c-daf84db4b2fa)
-
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/1c3e3be3-b8bd-48f3-b86e-658c7f49539e)
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/98a2e6de-b48a-43b3-badf-c247b8a0e7f9)
 
 .
 2. Oculta la versión del sistema y sistema de apache.
