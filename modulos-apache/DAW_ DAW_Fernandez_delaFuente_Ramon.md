@@ -37,8 +37,4 @@ atención.
 
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/18a94ddb-1396-4d49-97cb-99d7b9c9e7a0)
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/80113e25-2c68-45dd-b659-34e8135cba0a)
-
-
-.
-6. (Extra: 1 punto) Crea tu propio tema para el ejercicio anterior, sin dependencias
-externas.
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/0a156990-9a7d-47bc-8bfb-99ce017867b5)
