@@ -35,6 +35,8 @@ el archivo .htacess para implementarlo.
 https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la
 atención.
 
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/18a94ddb-1396-4d49-97cb-99d7b9c9e7a0)
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/80113e25-2c68-45dd-b659-34e8135cba0a)
 
 
 .
