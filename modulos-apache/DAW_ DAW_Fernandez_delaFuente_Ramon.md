@@ -5,6 +5,12 @@ Añade en tu servidor el módulo mod_info y explique para que se utiliza este pl
 
 .
 2. Oculta la versión del sistema y sistema de apache.
+
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/d36faeb5-9ace-4782-935f-d4a16dd7a202)
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/b313d570-d603-4f06-9f16-c1efc31bbf8b)
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/c1afff36-9296-4c6c-9346-7e28846598dc)
+
+
 .
 3. Crea una carpeta en la raíz del path del servidor con el nombre public y otra con el
 nombre private. Permite que la carpeta public se visualice y el resto de las carpetas
