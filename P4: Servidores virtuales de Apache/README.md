@@ -41,14 +41,14 @@ simbólicos necesarios para añadir esta configuración a la ejecución de apach
 8
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/2c9259c3-26fd-4588-b55c-bc9126714c53)
 
-9
-![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/552b70f4-27de-4531-829a-438949b7290a)
+11
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/e15bd7cd-61f2-4a49-adbb-8a79baaf8aaf)
 
 10
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/5f73bc97-6c7f-42ba-a5ed-2452326792d7)
 
-11
-![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/e15bd7cd-61f2-4a49-adbb-8a79baaf8aaf)
+9
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/552b70f4-27de-4531-829a-438949b7290a)
 
 12
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/2ed248ea-03ba-45e0-8995-21fc0a0796f6)
