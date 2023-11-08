@@ -35,6 +35,8 @@ simbólicos necesarios para añadir esta configuración a la ejecución de apach
 
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/552b70f4-27de-4531-829a-438949b7290a)
 
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/5f73bc97-6c7f-42ba-a5ed-2452326792d7)
+
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/2ed248ea-03ba-45e0-8995-21fc0a0796f6)
 
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/2b33d789-3042-4b59-9f31-bacc68c8ebb6)
