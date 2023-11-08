@@ -17,45 +17,32 @@ Para ello, tendrás que crear un archivo de configuración (copiado de 000-defau
 para cada uno de los dominios. Recuerda que con a2ensite puedes crear los enlaces
 simbólicos necesarios para añadir esta configuración a la ejecución de apache.
 
-1
+
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/92bf191d-f421-4f84-aff7-68e621d72959)
 
-2
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/261c1f4a-87d9-4416-80bc-8e5955d5c761)
 
-3
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/5bbc62a9-2a22-4299-a307-c2751ea009c5)
 
-4
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/323550b9-d46e-44fb-9d64-d8b8086ee6f9)
 
-5
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/9282916c-d0a4-420a-b5c0-ad3e41674274)
 
-6
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/554a37a9-318b-451c-8205-8c544b12b0d1)
 
-7
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/59bfe6f0-b37f-4f84-aa84-96a0895048b1)
 
-8
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/2c9259c3-26fd-4588-b55c-bc9126714c53)
 
-11
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/e15bd7cd-61f2-4a49-adbb-8a79baaf8aaf)
 
-10
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/5f73bc97-6c7f-42ba-a5ed-2452326792d7)
 
-9
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/552b70f4-27de-4531-829a-438949b7290a)
 
-12
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/2ed248ea-03ba-45e0-8995-21fc0a0796f6)
 
-13
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/2b33d789-3042-4b59-9f31-bacc68c8ebb6)
 
-14
 ![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/16ba21f6-e79e-4483-b3d1-a684c5e31c4c)
 
