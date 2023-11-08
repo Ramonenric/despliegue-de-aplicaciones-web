@@ -17,7 +17,17 @@ Para ello, tendrás que crear un archivo de configuración (copiado de 000-defau
 para cada uno de los dominios. Recuerda que con a2ensite puedes crear los enlaces
 simbólicos necesarios para añadir esta configuración a la ejecución de apache.
 
-![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/4d9fca07-2647-4362-bac5-3bdadd14053e)
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/92bf191d-f421-4f84-aff7-68e621d72959)
 
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/261c1f4a-87d9-4416-80bc-8e5955d5c761)
+
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/5bbc62a9-2a22-4299-a307-c2751ea009c5)
+
+
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/323550b9-d46e-44fb-9d64-d8b8086ee6f9)
+
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/9282916c-d0a4-420a-b5c0-ad3e41674274)
+
+![image](https://github.com/Ramonenric/despliegue-de-aplicaciones-web/assets/95300566/554a37a9-318b-451c-8205-8c544b12b0d1)
 
 
